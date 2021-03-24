@@ -1,4 +1,4 @@
-package com.loiane.cursojava.aula10;
+package aula10;
 
 public class Variaveis {
 

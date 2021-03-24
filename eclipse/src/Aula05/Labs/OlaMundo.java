@@ -1,7 +1,9 @@
+package Aula05.Labs;
+
 class OlaMundo{
 
     public static void main (String[] args){
 
-        System.out.println("Ol√° Mundo");
+        System.out.println("Ol· Mundo");
     }
 }

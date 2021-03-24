@@ -1,4 +1,4 @@
-package com.loiane.cursojava.aula12;
+package aula12;
 
 import java.util.Scanner;
 

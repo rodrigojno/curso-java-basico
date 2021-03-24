@@ -1,4 +1,4 @@
-package com.loiane.cursojava.aula13;
+package aula13;
 
 public class OperadoresAritmeticos {
 
